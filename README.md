@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/INtruDerBoY/leetcode/tree/master/0010-regular-expression-matching) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/INtruDerBoY/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/INtruDerBoY/leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/INtruDerBoY/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
