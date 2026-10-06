@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/INtruDerBoY/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/INtruDerBoY/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/INtruDerBoY/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0402-remove-k-digits](https://github.com/INtruDerBoY/leetcode/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/INtruDerBoY/leetcode/tree/master/0010-regular-expression-matching) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/INtruDerBoY/leetcode/tree/master/0402-remove-k-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/INtruDerBoY/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/INtruDerBoY/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
