@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/INtruDerBoY/leetcode/tree/master/0010-regular-expression-matching) |
+| [0126-word-ladder-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/INtruDerBoY/leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/INtruDerBoY/leetcode/tree/master/0402-remove-k-digits) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/INtruDerBoY/leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/INtruDerBoY/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/INtruDerBoY/leetcode/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/INtruDerBoY/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/INtruDerBoY/leetcode/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0126-word-ladder-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/INtruDerBoY/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/INtruDerBoY/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/INtruDerBoY/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/INtruDerBoY/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/INtruDerBoY/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -290,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/INtruDerBoY/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
