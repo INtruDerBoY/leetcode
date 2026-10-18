@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/INtruDerBoY/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1903-largest-odd-number-in-string](https://github.com/INtruDerBoY/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/INtruDerBoY/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/INtruDerBoY/leetcode/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/INtruDerBoY/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/INtruDerBoY/leetcode/tree/master/0127-word-ladder) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/INtruDerBoY/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
