@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/INtruDerBoY/leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/INtruDerBoY/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/INtruDerBoY/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/INtruDerBoY/leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/INtruDerBoY/leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/INtruDerBoY/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/INtruDerBoY/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/INtruDerBoY/leetcode/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/INtruDerBoY/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
