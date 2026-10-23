@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/INtruDerBoY/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/INtruDerBoY/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/INtruDerBoY/leetcode/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/INtruDerBoY/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/INtruDerBoY/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/INtruDerBoY/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/INtruDerBoY/leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/INtruDerBoY/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/INtruDerBoY/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
