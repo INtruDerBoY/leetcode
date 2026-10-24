@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/INtruDerBoY/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/INtruDerBoY/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0328-odd-even-linked-list](https://github.com/INtruDerBoY/leetcode/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/INtruDerBoY/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/INtruDerBoY/leetcode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/INtruDerBoY/leetcode/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/INtruDerBoY/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/INtruDerBoY/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/INtruDerBoY/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
 |  |
