@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/INtruDerBoY/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/INtruDerBoY/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0328-odd-even-linked-list](https://github.com/INtruDerBoY/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Hash Table
 |  |
 | ------- |
