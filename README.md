@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/INtruDerBoY/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/INtruDerBoY/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/INtruDerBoY/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/INtruDerBoY/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/INtruDerBoY/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## DP on Trees
 |  |
 | ------- |
