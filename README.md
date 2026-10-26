@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/INtruDerBoY/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/INtruDerBoY/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/INtruDerBoY/leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/INtruDerBoY/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/INtruDerBoY/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/INtruDerBoY/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/INtruDerBoY/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/INtruDerBoY/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/INtruDerBoY/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/INtruDerBoY/leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/INtruDerBoY/leetcode/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/INtruDerBoY/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/INtruDerBoY/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/INtruDerBoY/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/INtruDerBoY/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/INtruDerBoY/leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/INtruDerBoY/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/INtruDerBoY/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/INtruDerBoY/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/INtruDerBoY/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/INtruDerBoY/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/INtruDerBoY/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/INtruDerBoY/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -308,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/INtruDerBoY/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/INtruDerBoY/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/INtruDerBoY/leetcode/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/INtruDerBoY/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/INtruDerBoY/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -398,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/INtruDerBoY/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/INtruDerBoY/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/INtruDerBoY/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/INtruDerBoY/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -415,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/INtruDerBoY/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
