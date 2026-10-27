@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/INtruDerBoY/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/INtruDerBoY/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/INtruDerBoY/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/INtruDerBoY/leetcode/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/INtruDerBoY/leetcode/tree/master/0493-reverse-pairs) |
 ## String
 |  |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/INtruDerBoY/leetcode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/INtruDerBoY/leetcode/tree/master/0191-number-of-1-bits) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
