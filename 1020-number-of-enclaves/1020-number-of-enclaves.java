@@ -3,8 +3,6 @@ class Solution {
 
         int m = grid.length;
         int n = grid[0].length;
-
-        // Traverse boundary rows
         for (int j = 0; j < n; j++) {
             if (grid[0][j] == 1) {
                 dfs(grid, 0, j);
@@ -14,8 +12,6 @@ class Solution {
                 dfs(grid, m - 1, j);
             }
         }
-
-        // Traverse boundary columns
         for (int i = 0; i < m; i++) {
             if (grid[i][0] == 1) {
                 dfs(grid, i, 0);
@@ -25,8 +21,6 @@ class Solution {
                 dfs(grid, i, n - 1);
             }
         }
-
-        // Count remaining land
         int count = 0;
 
         for (int i = 0; i < m; i++) {
@@ -41,21 +35,15 @@ class Solution {
     }
 
     private void dfs(int[][] grid, int r, int c) {
-
-        // Base case
         if (r < 0 || c < 0 ||
             r >= grid.length || c >= grid[0].length ||
             grid[r][c] == 0) {
             return;
         }
-
-        // Remove visited land
         grid[r][c] = 0;
-
-        // Explore four directions
-        dfs(grid, r - 1, c); // Up
-        dfs(grid, r + 1, c); // Down
-        dfs(grid, r, c - 1); // Left
-        dfs(grid, r, c + 1); // Right
+        dfs(grid, r - 1, c); 
+        dfs(grid, r + 1, c);
+        dfs(grid, r, c - 1);
+        dfs(grid, r, c + 1); 
     }
 }
