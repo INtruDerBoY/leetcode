@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/INtruDerBoY/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/INtruDerBoY/leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/INtruDerBoY/leetcode/tree/master/0037-sudoku-solver) |
+| [0056-merge-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/INtruDerBoY/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/INtruDerBoY/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/INtruDerBoY/leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/INtruDerBoY/leetcode/tree/master/0721-accounts-merge) |
@@ -445,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
