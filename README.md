@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/INtruDerBoY/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/INtruDerBoY/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/INtruDerBoY/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/INtruDerBoY/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/INtruDerBoY/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/INtruDerBoY/leetcode/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
