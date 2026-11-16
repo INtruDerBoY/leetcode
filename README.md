@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/INtruDerBoY/leetcode/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/INtruDerBoY/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/INtruDerBoY/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/INtruDerBoY/leetcode/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/INtruDerBoY/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/INtruDerBoY/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/INtruDerBoY/leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/INtruDerBoY/leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/INtruDerBoY/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/INtruDerBoY/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/0542-01-matrix) |
