@@ -45,6 +45,7 @@ class Solution {
                     int cherries;
 
                     if(j1 == j2){
+    
                         cherries = grid[i][j1];
                     }else{
                         cherries = grid[i][j1] + grid[i][j2];
