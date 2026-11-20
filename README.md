@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/INtruDerBoY/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/INtruDerBoY/leetcode/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/INtruDerBoY/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/INtruDerBoY/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/INtruDerBoY/leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/INtruDerBoY/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0931-minimum-falling-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/INtruDerBoY/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/INtruDerBoY/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/INtruDerBoY/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/INtruDerBoY/leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -500,8 +502,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/INtruDerBoY/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/INtruDerBoY/leetcode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
