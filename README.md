@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/INtruDerBoY/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/INtruDerBoY/leetcode/tree/master/0200-number-of-islands) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/INtruDerBoY/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0416-partition-equal-subset-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/INtruDerBoY/leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/0542-01-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/INtruDerBoY/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/INtruDerBoY/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0416-partition-equal-subset-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/INtruDerBoY/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -494,4 +496,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/INtruDerBoY/leetcode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
