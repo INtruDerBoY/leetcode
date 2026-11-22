@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/INtruDerBoY/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/INtruDerBoY/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/INtruDerBoY/leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/INtruDerBoY/leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/INtruDerBoY/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/INtruDerBoY/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/INtruDerBoY/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/INtruDerBoY/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/INtruDerBoY/leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/INtruDerBoY/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1903-largest-odd-number-in-string](https://github.com/INtruDerBoY/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/INtruDerBoY/leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/INtruDerBoY/leetcode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/INtruDerBoY/leetcode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/INtruDerBoY/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/INtruDerBoY/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/INtruDerBoY/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/INtruDerBoY/leetcode/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/INtruDerBoY/leetcode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/INtruDerBoY/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/INtruDerBoY/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/INtruDerBoY/leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/INtruDerBoY/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/INtruDerBoY/leetcode/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/INtruDerBoY/leetcode/tree/master/0455-assign-cookies) |
 ## Memoization
 |  |
 | ------- |
